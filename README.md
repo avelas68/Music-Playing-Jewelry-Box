@@ -4,3 +4,7 @@ The wooden jewelry box was made by cutting wood via the laser cutter. This was a
 We also incorporated a handful of 3D printed specimens onto our box to add to the decoration of the jewelry box. We added some 3D printed roses on the top of our box to add to the girly aesthetic of the jewelry box. We also 3D printed a character from the Sanrio (Hello Kitty) collection, which was a character named Cinnamoroll. We placed Cinnamoroll on the top and center of the lid. We also added some 3D printed handles to be attached to the drawers so the user can easily pull the drawers in and out.  <br/>
 For the mechanics of this project an Arduino along with a potentiometer, DF Player, and a tilt sensor were used to program the box. The DF Player was used to play music on the box via a small micro chip that contained MP3 music. The Arduino activated the DF Player to start playing music once the user opened the lid of the jewelry box. The Arduino knew that the user was opening the lid of the box because there was a tilt sensor attached to the lid of the box which activated the DF Player to start playing the music. The LED lights along the edge of the mirror were able to become dimmer and brighter by the user turning a potentiometer that was attached to the Arduino.<br/>
 ![JeweleryBoxCroped1](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/3027ce9d-47ef-4946-b5bc-37cc6edb1a5b)
+
+
+https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/c5991cdd-1ce9-476d-95ce-65dd2e85c8e4
+
