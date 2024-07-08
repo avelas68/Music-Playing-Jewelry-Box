@@ -10,8 +10,8 @@ https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/c5991cdd-1
 
 ![JewelrBox1](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/22ace20c-b9e4-4173-9c1d-224ddae48dde)
 ![JewelryBox2](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/a9d1d1da-1acb-4dd1-a43c-f9917f479b6f)
-![JewelryBox3](htt![JewelryBox5![JewelryBox6](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/d23fa865-a8de-44d4-85cd-b2c80a5f7f67)
-](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/6e4e901c-57d2-4fc2-96cb-f09a39e3d8cf)
+![JewelryBox3](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/d1146099-d7f5-4b7b-a23f-57cf8a0e2cad)
 ps![JewelryBox4](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/9c7375b9-179d-4438-a2e7-db270a4db216)
 
 ![JewelryBox6](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/bbcac9e6-293c-4463-82a7-f0bf1edae7be)
+
