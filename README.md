@@ -8,3 +8,9 @@ For the mechanics of this project an Arduino along with a potentiometer, DF Play
 
 https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/c5991cdd-1ce9-476d-95ce-65dd2e85c8e4
 
+![JewelrBox1](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/22ace20c-b9e4-4173-9c1d-224ddae48dde)
+![JewelryBox2](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/a9d1d1da-1acb-4dd1-a43c-f9917f479b6f)
+![JewelryBox3](htt![JewelryBox5![JewelryBox6](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/d23fa865-a8de-44d4-85cd-b2c80a5f7f67)
+](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/6e4e901c-57d2-4fc2-96cb-f09a39e3d8cf)
+ps![JewelryBox4](https://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/9c7375b9-179d-4438-a2e7-db270a4db216)
+://github.com/avelas68/Music-Playing-Jewelry-Box/assets/47703183/fd2b9c9a-1ea8-4116-b9a5-fdc1a2702ae9)
